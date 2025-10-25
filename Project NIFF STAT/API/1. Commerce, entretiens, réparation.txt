@@ -1,0 +1,119 @@
+1. Commerce, entretiens, réparations
+2. Divers
+3. Transport
+4. Autres services aux entreprises
+5. BTP
+6. Services immobilers
+7. Education
+8. Hôtel, restaurant
+9. Services rendus aux ménages
+10. Alimentaire, baoisson, tabac
+11. Bois, papiers, imprimerie
+12. Industrie chimique et pharmaceutique
+13. Textile
+14. Banque, assurance
+
+
+2. Matériaux de construction
+
+
+5. Industrie exctractive
+7. Santé
+
+9. Machine, matériels  électriques
+
+12. Administration
+
+14. Alimentaire, baoisson, tabac
+15. Bois, papiers, imprimerie
+
+17. Poste et télécommunication
+
+
+20. Industries diverses
+21. Agriculture
+22. Elevage, pêche
+
+24. Produits pétroliers
+25. Industrie métallique
+26. Electricité, eau, gaz
+27. Industrie métallurgique
+28. Sylviculture
+
+
+
+
+
+
+
+
+
+
+
+1. Commerce, entretiens, réparations : 2023
+2. Autres services aux entreprises : 807
+3. BTP : 277
+4. Transport : 234
+5. Hôtel, restaurant : 130
+6. Services immobilers : 97
+7. Alimentaire, baoisson, tabac : 88
+8. Textile : 81
+9. Bois, papiers, imprimerie : 69
+10. Industrie chimique et pharmaceutique : 69
+11. Services rendus aux ménages : 63
+12. Education : 55
+13. Banque, assurance : 52
+14. Santé : 48
+15. Poste et télécommunication : 43
+16. Industrie exctractive : 38
+17. Agriculture : 31
+18. Machine, matériels  électriques : 30
+19. Elevage, pêche : 23
+20. Industries diverses : 20
+21. Electricité, eau, gaz : 14
+22. Industrie métallique : 10
+23. Matériaux de construction : 9
+24. Administration : 8
+25. Industrie métallurgique : 8
+26. Produits pétroliers : 5
+27. Sylviculture : 5
+
+
+
+
+label = {
+"Commerce, entretiens, réparations":[],
+"Autres services aux entreprises":[],
+"BTP":[],
+"Transport",
+"Hôtel, restaurant":[],
+"Services immobilers":[],
+"Alimentaire, baoisson, tabac":[],
+"Textile":[],
+"Bois, papiers, imprimerie":[],
+"Industrie chimique et pharmaceutique":[],
+"Services rendus aux ménages":[],
+"Education":[],
+"Banque, assurance":[],
+"Santé":[],
+"Poste et télécommunication":[],
+"Industrie exctractive":[],
+"Agriculture":[],
+"Machine, matériels électriques":[],
+"Elevage, pêche":[],
+"Industries diverses":[],
+"Electricité, eau, gaz":[],
+"Industrie métallique":[],
+"Matériaux de construction":[],
+"Administration":[],
+"Industrie métallurgique":[],
+"Produits pétroliers":[],
+"Sylviculture":[]
+}
+
+
+
+
+
+
+
